@@ -53,7 +53,7 @@ Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
     HELP_TXT = """<b>›› ᴍᴏᴠɪᴇꜱ: <a href=https://t.me/FusionReels>ғᴜꜱɪᴏɴʀᴇᴇʟꜱ</a>
 ›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟꜱ: <a href=https://t.me/+c4D_UAkHEkUyN2M1>ᴄᴏʀɴʜᴜʙ</a>
 ›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=https://t.me/getyourlink>ɢᴇᴛʏᴏᴜʀʟɪɴᴋ</a>
-›› ꜱᴜᴘᴘᴏʀᴛ : <a href=https://t.me/getyourlink_help>@ɢᴇᴛʏᴏᴜʀʟɪɴᴋ_ʜᴇʟᴘ</a>
+›› ꜱᴜᴘᴘᴏʀᴛ : <a href=https://t.me/getyourlink_help>ɢᴇᴛʏᴏᴜʀʟɪɴᴋ_ʜᴇʟᴘ</a>
 
 <blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/getyourlink>ᴅᴇᴠɪʟ</a></blockquote></b>"""
 
