@@ -16,7 +16,9 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>{file_caption}</b>""" 
+    CAPTION = """<b>{file_caption}
+    
+🌿 ᴘᴏᴡᴇʀᴇᴅ ʙʏ - <a href=https://t.me/getyourlink>ɢᴇᴛʏᴏᴜʀʟɪɴᴋ</a> </b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -48,7 +50,12 @@ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href=https://www.heroku.com>ʜᴇʀᴏᴋᴜ</a></bl
 Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
 """
 
-    HELP_TXT = """🔖🔖"""
+    HELP_TXT = """<b>›› ᴍᴏᴠɪᴇꜱ: <a href=https://t.me/FusionReels>ғᴜꜱɪᴏɴʀᴇᴇʟꜱ</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟꜱ: <a href=https://t.me/+c4D_UAkHEkUyN2M1>ᴄᴏʀɴʜᴜʙ</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=https://t.me/getyourlink>ɢᴇᴛʏᴏᴜʀʟɪɴᴋ</a>
+›› ꜱᴜᴘᴘᴏʀᴛ : <a href=https://t.me/getyourlink_help>@ɢᴇᴛʏᴏᴜʀʟɪɴᴋ_ʜᴇʟᴘ</a>
+
+<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/getyourlink>ᴅᴇᴠɪʟ</a></blockquote></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -71,7 +78,8 @@ Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
 🗓️ Dᴀᴛᴇ : <code>{}</code>
 ⏳ Tɪᴍᴇ : <code>{}</code>
 🌍 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-⚙️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></blockquote></b>"""
+⚙️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></blockquote>
+Support:- @DevThanos</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
