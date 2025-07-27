@@ -43,12 +43,12 @@ class script(object):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>Mʏ Nᴀᴍᴇ : {}
-Oᴡɴᴇʀ : <a href=https://t.me/getyourlink_help></a>ᴏᴡɴᴇʀ 
+    ABOUT_TXT = """<blockquote><b>Mʏ Nᴀᴍᴇ : {}
+Oᴡɴᴇʀ : <a href=https://t.me/getyourlink_help>ᴏᴡɴᴇʀ</a> 
 Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/DevThanos>DᴇᴠTʜᴀɴᴏꜱ</a>
 Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 𝟹</a>
-Bᴏᴛ Sᴇʀᴠᴇʀ : <a href=https://www.heroku.com>ʜᴇʀᴏᴋᴜ</a>
-Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
+Bᴏᴛ Sᴇʀᴠᴇʀ : <a href=https://www.heroku.com>ʜᴇʀᴏᴋᴜ</a></blockquote>
+Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
 """
 
     HELP_TXT = """🔖🔖"""
