@@ -149,8 +149,8 @@ async def start(client, message):
                 f_caption = getattr(info, 'caption', '')
                 if f_caption:
                     f_caption = f_caption.html
-                old_title = getattr(file, "file_name", "")
-                title = formate_file_name(old_title)
+                old_title = getattr(file, "file_name", None)
+                title = formate_file_name(old_title or info.caption or "Unnamed_File")
                 size=get_size(int(file.file_size))
                 if BATCH_FILE_CAPTION:
                     try:
@@ -224,7 +224,7 @@ async def start(client, message):
         msg = await client.get_messages(LOG_CHANNEL, int(decode_file_id))
         if msg.media:
             media = getattr(msg, msg.media.value)
-            title = formate_file_name(media.file_name)
+            title = formate_file_name(getattr(media, "file_name", None) or msg.caption or "Unnamed_File")
             size=get_size(media.file_size)
             f_caption = f"<code>{title}</code>"
             if CUSTOM_FILE_CAPTION:
