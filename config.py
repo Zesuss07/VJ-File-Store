@@ -18,13 +18,13 @@ def is_enabled(value, default):
         return default
       
 # Bot Information
-API_ID = int(environ.get("API_ID", "22422690"))
-API_HASH = environ.get("API_HASH", "2884fbc53b44a1bbcfa7c525e185c1aa")
+API_ID = int(environ.get("API_ID", "28022215"))
+API_HASH = environ.get("API_HASH", "c7431232d6f69436238937d11806389a")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
 PICS = (environ.get('PICS', 'https://files.catbox.moe/asmdx2.jpg')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7793257011').split()]
-BOT_USERNAME = environ.get("BOT_USERNAME", "Getyourlink01bot") # without @
+BOT_USERNAME = environ.get("BOT_USERNAME", "Getyourlink_files_bot") # without @
 PORT = environ.get("PORT", "8080")
 
 # Clone Info :-
