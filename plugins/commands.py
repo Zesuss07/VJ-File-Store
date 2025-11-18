@@ -193,7 +193,10 @@ async def start(client, message):
             await asyncio.sleep(1) 
         await sts.delete()
         if AUTO_DELETE_MODE == True:
-            k = await client.send_message(chat_id = message.from_user.id, text=f"<b><u>❗️❗️❗️ IMPORTANT NOTICE ❗️️❗️❗️</u></b>
+            k = await client.send_message(
+    chat_id=message.from_user.id,
+    text=f"<b><u> ❗❗❗ IMPORTANT NOTICE ❗❗❗ </u></b>"
+)
 
 <b>This file will be deleted in <u>{AUTO_DELETE} minutes</u> ⏰ (Due to Copyright Issues) ♻️</b>
 
