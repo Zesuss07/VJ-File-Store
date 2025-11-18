@@ -26,7 +26,7 @@ class script(object):
 
     ABOUT_TXT = """<blockquote><b>Mʏ Nᴀᴍᴇ : {}
 Oᴡɴᴇʀ : <a href=https://t.me/getyourlink_help>ᴏᴡɴᴇʀ</a> 
-Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/DevThanos>DᴇᴠTʜᴀɴᴏꜱ</a>
+Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/subassoren>DᴇᴠS.Soren</a>
 Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 𝟹</a>
 Bᴏᴛ Sᴇʀᴠᴇʀ : <a href=https://www.heroku.com>ʜᴇʀᴏᴋᴜ</a></blockquote>
 Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
@@ -44,18 +44,18 @@ Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
 
     CABOUT_TXT = """<blockquote><b>Mʏ Nᴀᴍᴇ : {}
 Oᴡɴᴇʀ : <a href=https://t.me/getyourlink_help>ᴏᴡɴᴇʀ</a> 
-Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/DevThanos>DᴇᴠTʜᴀɴᴏꜱ</a>
+Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/subassoren>S.Soren</a>
 Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 𝟹</a>
 Bᴏᴛ Sᴇʀᴠᴇʀ : <a href=https://www.heroku.com>ʜᴇʀᴏᴋᴜ</a></blockquote>
 Vᴇʀꜱɪᴏɴ : ᴠ2.0 [ ꜱᴛᴀʙʟᴇ ]</b>
 """
 
-    HELP_TXT = """<b>›› ᴍᴏᴠɪᴇꜱ: <a href=https://t.me/FusionReels>ғᴜꜱɪᴏɴʀᴇᴇʟꜱ</a>
-›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟꜱ: <a href=https://t.me/+c4D_UAkHEkUyN2M1>ᴄᴏʀɴʜᴜʙ</a>
-›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=https://t.me/getyourlink>ɢᴇᴛʏᴏᴜʀʟɪɴᴋ</a>
-›› ꜱᴜᴘᴘᴏʀᴛ : <a href=https://t.me/getyourlink_help>ɢᴇᴛʏᴏᴜʀʟɪɴᴋ_ʜᴇʟᴘ</a>
+    HELP_TXT = """<b>›› ᴍᴏᴠɪᴇꜱ: <a href=https://xdose.net/>FILMY ADDA</a>
+›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟꜱ: <a href=https://xdose.net/>CORNHUB</a>
+›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href=https://t.me/xdoseplus>Xdose Plus</a>
+›› ꜱᴜᴘᴘᴏʀᴛ : <a href=https://t.me/xdosenet>Xdose Dot Net</a>
 
-<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/getyourlink>ᴅᴇᴠɪʟ</a></blockquote></b>"""
+<blockquote>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/getyourlink>Xdose Dot Net</a></blockquote></b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -97,3 +97,4 @@ Support:- @DevThanos</b>"""
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
