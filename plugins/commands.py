@@ -196,8 +196,6 @@ async def start(client, message):
             k = await client.send_message(
     chat_id=message.from_user.id,
     text=f"<b><u> ❗❗❗ IMPORTANT NOTICE ❗❗❗ </u></b>"
-)
-
 <b>This file will be deleted in <u>{AUTO_DELETE} minutes</u> ⏰ (Due to Copyright Issues) ♻️</b>
 
 <b>Please forward this File/Video to your Saved Messages and start downloading there...</b>")
